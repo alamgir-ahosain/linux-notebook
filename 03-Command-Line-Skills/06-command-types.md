@@ -72,7 +72,7 @@ Syntax:
   }
   ```
 
-![alt text](image.png)
+![alt text](image/function.png)
 
 ---
 

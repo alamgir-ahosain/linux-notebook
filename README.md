@@ -43,7 +43,7 @@
   - 06 . **Remove** : `rm` command
   - 07 . **Redirection** : `>` `,>>` command
 
-- 03 . **Archiving & Compression**
+- 05 . **Archiving & Compression**
   - 01 . **Introduction**
   - 02 . **Compressing** : using `gzip` , `bzip2` , `xz` tools
   - 03 . **Archiving Files** : using  `tar` 

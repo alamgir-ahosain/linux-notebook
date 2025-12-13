@@ -1,0 +1,26 @@
+
+## Shell Script
+
+* A **shell script** is a text file containing **executable commands**.
+* Scripts can automate repetitive tasks and **change behavior** based on conditions.
+
+Example of a simple script:
+
+  ```bash
+  echo "Hello, World!"
+  ```
+Run a script with:
+
+  ```bash
+  sh script.sh      # via shell
+  ./script.sh       # directly (needs execute permission)
+  ```
+
+###  **Shebang (`#!`)** specifies the interpreter for the script
+
+  ```bash
+  #!/bin/bash
+  echo "Hello, World!"
+  ```
+* Shebang works for shells and other scripting languages (Python, Perl, Ruby).
+* Always create scripts in **plain text**, not formatted office documents.

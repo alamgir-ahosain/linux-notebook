@@ -37,11 +37,17 @@
 - 02 . **Management**
   - 01 . **Globbing Character** : `* , ? , [] , !`
   - 02 . **Create** : `touch` and `mkdir`  command
-  - 03 . **View** : `cat` , `less` , `more` , `head` , `tail`  command
+  - 03 . **View** : `cat` , `less` , `more` , `head` , `tail`  and `|` command
   - 04 . **Copy** : `cp` , `dd` command
   - 05 . **Move** : `mv` command
   - 06 . **Remove** : `rm` command
-  - 07 . **Redirection** : `>` `,>>` command
+  - 07 . **Redirection** : `STDOUT ` , `STDERR` , `STDIN` command
+  - 08 . **Sorting** : Sorting Fields & options
+  - 09 . **View File Statistics** : `wc` command
+  - 10 . **Filter File Section** : `cut` command
+  - 11 . **Filter File Content** : `grep` command
+  - 12 . **Reguler Expression** : grep with `. [] [^] $`  and ` + ? {} | ()`
+
 
 ###  05 . Archiving & Compression
   - 01 . **Introduction**

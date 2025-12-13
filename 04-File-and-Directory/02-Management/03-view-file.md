@@ -33,3 +33,37 @@ tail alphabet.txt         # Show last 10 lines by default
 head -n 5 alphabet.txt    # Show first 5 lines of the file
 tail -n 5 alphabet.txt    # Show last 5 lines of the file
 ```
+
+## Command Line Pipes  ( `|` )
+
+* `|` sends output of one command as input to another.
+* Helps filter and refine large outputs.
+* Commands run left → right; order matters.
+* Multiple pipes can be chained.
+
+**Examples:**
+
+```bash
+ls /etc | head               # show first 10 entries
+ls /etc/ssh | nl             # number all lines
+ls /etc/ssh | nl | tail -5   # number first, then show last 5
+ls /etc/ssh | tail -5 | nl   # take last 5, then number 1–5
+```
+
+---
+```bash
+ls /etc/ssh | nl
+```
+* `ls /etc/ssh` → show files
+* `|` → pass output
+* `nl` → number each line
+
+Example:
+
+```text
+1  ssh_config
+2  ssh_config.d
+3  sshd_config
+```
+
+Used to **count files** or **reference them by number**.

@@ -6,6 +6,20 @@
 
 ## 🚀 Topics Covered
 
+### 00 . Fundamentals
+- 01 . **Computer Hardware**
+  - 00 .  **Important Command** : `lscpu free -m , lspci , lsusb , lsmode , fdisk`
+  - 01 . **Motherboard (System Board)**
+  - 02 .  **Processor - CPU**
+  - 03 . **RAM**
+  - 04 . **Buses**
+  - 05 . **Hard Drives**
+  - 06 . **Solid State Disks - SSD**
+  - 07 . **Optical Driver**
+  - 08 . **Managing Device**
+  - 09 . **Video Display Devices**
+  - 10 . **Power Supplies**
+
 
 ### 01. Introduction
 - 01 . Linux OS 
@@ -55,9 +69,14 @@
   - 03 . **Archiving Files** : using  `tar` 
   - 04 . **Zip and Unzip Files**
 
+### 06 . Basic Shell Scripting ( `.sh` )
+- 01 . **Introduction**
+- 02 . **Conditionals** : `if-else` ,` test []` , `swith-case`
+- 03 . **Loop** : `for`  and `while` loop
 
-
-
+### 07 . Nano and VI Editors
+- 01 . `Nano Editors`
+- 02 . `VI Editors `
 
 
 

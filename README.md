@@ -4,6 +4,12 @@
 
 ---
 
+## Contributing
+ 
+ Ready to contribute?  Check out the [Contributing Guidelines](Contributing.md)  . Fork the repo and create  a PR !
+
+---
+
 ## 🚀 Topics Covered
 
 ### 00 . Fundamentals
